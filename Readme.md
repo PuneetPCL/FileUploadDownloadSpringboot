@@ -10,10 +10,8 @@
 mvn spring-boot:run
 ```
 ## After Run
-  ```sh
-go to [please go this url](http://localhost:8080)
 
-```
+go to http://localhost:8080
 
  **Now the application is ready to use**
 
