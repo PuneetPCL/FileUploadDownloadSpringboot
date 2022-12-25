@@ -8,6 +8,8 @@
 ## Run the project
   ```sh
 mvn spring-boot:run
+or
+java -jar target/file-demo-0.0.1-SNAPSHOT.jar
 ```
 ## After Run
 
